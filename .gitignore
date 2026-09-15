@@ -34,12 +34,6 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Build artefacts you don’t need in source control
-src/assets/*.jpg
-src/assets/*.png
-src/assets/*.jpeg
-src/assets/*.webp
-
 
 # Sensitive files
 private-key*
