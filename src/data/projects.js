@@ -1,5 +1,6 @@
 import medihopeImg from '../assets/medihope-cover.jpg';
 import ssgsImg from '../assets/ssgs-cover.jpg';
+import propeaseCover from '../assets/propease-cover.png';
 
 export const projects = [
   {
@@ -27,7 +28,7 @@ export const projects = [
     techStack: ['Java 21', 'JavaFX', 'MySQL', 'JDBC', 'Maven', 'iText', 'Apache POI', 'Jakarta Mail'],
     github: 'https://github.com/mahesh4596/propease',
     liveDemo: null,
-    image: null,
+    image: propeaseCover,
     imagePlaceholder: 'bg-gradient-to-br from-bg-elevated-2 to-bg-primary',
     overview: 'Desktop application for managing real estate operations end-to-end.',
     problem: 'Real estate agents often struggle with fragmented tools for managing customers, listings, deals, and reporting.',
