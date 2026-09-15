@@ -44,7 +44,7 @@ export const projects = [
     description: 'A full grocery e-commerce site built for a real store — product browsing, cart, checkout with Razorpay payments, and an admin panel to manage products and orders.',
     techStack: ['React', 'Tailwind CSS', 'Lucide Icons', 'Node.js', 'Express', 'MongoDB', 'Razorpay'],
     github: 'https://github.com/mahesh4596/shiv-shakti-general-store',
-    liveDemo: null,
+    liveDemo: 'https://ssgs-delta.vercel.app/',
     image: ssgsImg,
     imagePlaceholder: 'bg-gradient-to-tr from-bg-primary to-bg-elevated',
     overview: 'Full grocery e-commerce site built for a real store.',
