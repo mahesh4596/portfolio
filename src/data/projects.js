@@ -1,5 +1,5 @@
-import medihopeImg from '../assets/medihope-cover.jpg';
-import ssgsImg from '../assets/ssgs-cover.jpg';
+const medihopeImg = '/assets/medihope-cover.jpg';
+const ssgsImg = '/assets/ssgs-cover.jpg';
 
 export const projects = [
   {
