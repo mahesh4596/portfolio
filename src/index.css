@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: #0B0C0F;
+    --bg-elevated: #131418;
+    --bg-elevated-2: #1B1D22;
+    --border-subtle: #24262C;
+    --border-strong: #34363D;
+
+    --text-primary: #EDEDEF;
+    --text-secondary: #A3A6AD;
+    --text-muted: #6B6E76;
+
+    --accent: #F0A34E;
+    --accent-hover: #F6B96C;
+    --accent-muted: #F0A34E1A;
+
+    --success: #4ADE80;
+  }
+
+  body {
+    @apply bg-[var(--bg-primary)] text-[var(--text-secondary)] font-body antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading text-[var(--text-primary)];
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
