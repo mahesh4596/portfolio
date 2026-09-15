@@ -22,7 +22,7 @@ A **production‑ready, premium‑looking personal developer portfolio** built f
 
 ## 🚀 Live Demo
 
-- **Portfolio:** https://mahesh-singla-portfolio.vercel.app/ (replace with your actual domain)
+- **Portfolio:** https://mahesh-singla-portfolio.vercel.app/
 - **MediHope:** https://medihope.vercel.app/
 - **Shiv Shakti (SSGS):** https://ssgs-delta.vercel.app/
 
@@ -47,9 +47,8 @@ A **production‑ready, premium‑looking personal developer portfolio** built f
 | Project | Screenshot |
 |---------|------------|
 | **MediHope** | ![MediHope screenshot](src/assets/medihope-cover.jpg) |
+| **Propease** | ![Propease screenshot](src/assets/propease-cover.png) |
 | **Shiv Shakti (SSGS)** | ![SSGS screenshot](src/assets/ssgs-cover.jpg) |
-
-> *The screenshots are generated automatically by a small Puppeteer script (`scripts/capture.mjs`). Feel free to replace them with your own images.*
 
 ---
 
